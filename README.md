@@ -41,3 +41,44 @@ Pyton Liabraries
 
 - `nltk` (Natural Language Toolkit - for stopwords)
 
+
+# Steps to Run/Execute the Project 🚀
+
+1. Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all necessary Python libraries like` pdfminer3`, `pyresparser`, `streamlit`, `pandas`, etc.
+
+2. Prepare the Backend (If Using FastAPI - Optional)
+If you're also running a FastAPI backend for parsing and matching.
+
+```bash
+pip install fastapi uvicorn
+```
+Then run
+```bash
+uvicorn main:app --reload
+```
+Access it at:`http://127.0.0.1:8000/docs`
+
+3. Run the Streamlit App
+Inside the project folder, run:
+```bash
+streamlit run app.py
+
+```
+Streamlit will start a local server and automatically open a browser window.
+Example URL:
+`http://localhost:8501/`
+
+4. Upload Resume
+
+- Click on the upload section.
+
+- Upload a PDF or DOCX resume.
+
+- The system will extract resume information automatically.
+
