@@ -17,7 +17,7 @@
 
 
 ## Video Link 🔗
-https://github.com/Bhumit-Tanwar/Intelligent-Resume-Screening-using-AI/blob/main/major%20project%20video%20(1)%20(1).mp4
+https://github.com/Bhumit-Tanwar/Intelligent-Resume-Screening-using-AI/blob/main/Project%20Video%20Final.mp4
 
 # Technologies
 Main Technologies 🛠️
